@@ -14,3 +14,18 @@
 </a>
 <br/><br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulpatra003&label=Profile%20views&color=0e75b6&style=flat" alt="Rahul Patra" /> </p>
+
+<h2 align="left">
+    Frameworks that i worked on are following:
+</h2>
+
+- **RxSwift**
+- **SwiftUI**
+- **UIKit**
+- **AVFoundation**
+- **Alamofire/URLSession**
+- **Core Data**
+- **Core Animation**
+- **Firebase**
+- **Healthkit**
+- **Watch OS**
