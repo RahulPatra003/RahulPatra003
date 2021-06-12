@@ -16,6 +16,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulpatra003&label=Profile%20views&color=0e75b6&style=flat" alt="Rahul Patra" /> </p>
 
 <h2 align="left">
+    My Intro
+</h2>
+Expert Swift developer who can handle any iOS project, a native English speaker, based in the India (Punjab area).
+
+                
+<h2 align="left">
     Frameworks that i worked on are following:
 </h2>
 
