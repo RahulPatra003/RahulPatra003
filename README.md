@@ -12,5 +12,5 @@
 <a href="https://www.facebook.com/rahul.patra.106902">
   <img align="left" alt="Rahul Patra's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<br/>
+<br/><br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulpatra003&label=Profile%20views&color=0e75b6&style=flat" alt="Rahul Patra" /> </p>
