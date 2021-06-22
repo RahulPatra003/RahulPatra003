@@ -36,7 +36,7 @@ Expert Swift developer who can handle any iOS project, a native English speaker,
 - **Healthkit**
 - **Watch OS**
                 
-                <h2 align="left">
+<h2 align="left">
     Github Activity Statistics:
 </h2>
 
