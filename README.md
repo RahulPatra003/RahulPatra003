@@ -35,3 +35,14 @@ Expert Swift developer who can handle any iOS project, a native English speaker,
 - **Firebase**
 - **Healthkit**
 - **Watch OS**
+                
+                <h2 align="left">
+    Github Activity Statistics:
+</h2>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rahulpatra003&show_icons=true&count_private=true" alt="Rahul Patra" /> </p>     
+
+<h2 align="left">
+    Languages i have used :
+</h2>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatra003&layout=compact&langs_count=10&hide=Objective-C,JavaScript" alt="Rahul Patra" /> </p>     
