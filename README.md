@@ -25,16 +25,16 @@ Expert Swift developer who can handle any iOS project, a native English speaker,
     Frameworks that i worked on are following:
 </h2>
 
-- **RxSwift**
-- **SwiftUI**
 - **UIKit**
-- **AVFoundation**
 - **Alamofire/URLSession**
 - **Core Data**
 - **Core Animation**
 - **Firebase**
 - **Healthkit**
-- **Watch OS**
+- **AVFoundation**
+- **Twilio**
+- **RxSwift**
+- **SwiftUI**
                 
 <h2 align="left">
     Github Activity Statistics:
