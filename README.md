@@ -27,9 +27,12 @@ Expert Swift developer who can handle any iOS project, a native English speaker,
 
 - **UIKit**
 - **Alamofire/URLSession**
+- **Socket.io**
+- **Google Maps/MapKit**
 - **Core Data**
 - **Core Animation**
 - **Firebase**
+- **QuickBloxx**
 - **Healthkit**
 - **AVFoundation**
 - **Twilio**
